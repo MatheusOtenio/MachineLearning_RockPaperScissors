@@ -26,4 +26,4 @@ Este projeto implementa um jogador de Pedra, Papel e Tesoura usando aprendizado 
 Desenvolver um jogador capaz de identificar padrões e melhorar sua performance contra diferentes adversários.
 
 ## Resultados
-No meu projeto, obtive uma taxa de acerto de **62%** na identificação correta das imagens de gatos e cães.  
+No meu projeto, obtive uma taxa de Vitória acima de **60%** em média contra os adversários.  
