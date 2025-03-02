@@ -12,8 +12,7 @@ Este projeto implementa um jogador de Pedra, Papel e Tesoura usando aprendizado 
 
 1. Clone o repositório:  
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/MatheusOtenio/MachineLearning_RockPaperScissors
    ```
 
 2. Instale o Python (se ainda não tiver).  
