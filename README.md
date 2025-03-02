@@ -1,6 +1,6 @@
 # Machine Learning Rock Paper Scissors
 
-Este projeto implementa um jogador de Pedra, Papel e Tesoura usando técnicas básicas de aprendizado de máquina para prever as jogadas do adversário e aumentar a taxa de vitória.
+Este projeto implementa um jogador de Pedra, Papel e Tesoura usando aprendizado de máquina para prever as jogadas do adversário e aumentar a taxa de vitória.
 
 ## Tecnologias Utilizadas
 - Python  
