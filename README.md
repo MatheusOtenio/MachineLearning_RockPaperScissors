@@ -8,6 +8,9 @@ Este projeto implementa um jogador de Pedra, Papel e Tesoura usando aprendizado 
 - Cadeias de Markov  
 - Estruturas de Dados (Dicionários e Listas)  
 
+## Atividade
+ Melhorar a taxa de vitória do jogador no arquivo RPS.py ao enfrentar quatro adversários distintos. O código será testado em 1.000 partidas contra cada adversário, totalizando 4.000 jogos. As modificações devem ser feitas exclusivamente no arquivo RPS.py.
+
 ## Como Executar
 
 1. Clone o repositório:  
